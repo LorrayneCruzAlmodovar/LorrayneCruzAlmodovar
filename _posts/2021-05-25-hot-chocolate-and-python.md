@@ -24,7 +24,7 @@ for day in lifetime:
     my_python_knowledge += 1
 ```
 
-Just so you really see how much I love Python, here is some code BUT with some colours for keywords & functionality!
+Just so you really see how much I love Python, here is some code BUT with some colors for keywords & functionality!
 
 ```python
 my_love_for_python = 0
@@ -44,16 +44,16 @@ Here is an **unordered list** showing some things I love about Python
 * For fun
     * Deep Learning
     * Computer Vision
-    * Projects about coffee
+    * Projects about hot chocolate
 
-Here is an _ordered list_ showing some things I love about coffee
+Here is an _ordered list_ showing some things I love about hot chocolate
 
 1. The smell
     1. Especially in the morning, but also at all times of the day!
 2. The taste
 3. The fact I can run the 100m in approx. 9 seconds after having 4 cups in quick succession
 
-I love Python & Coffee so much, here is that picture from the top of my project AGAIN, but this time, in the BODY of my project!
+I love Python & Hot Chocolate so much, here is that picture from the top of my project AGAIN, but this time, in the BODY of my project!
 
 ![alt text](/img/posts/coffee_python.jpg "Coffee & Python - I love them!")
 
